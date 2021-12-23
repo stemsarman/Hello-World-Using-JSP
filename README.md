@@ -1,6 +1,7 @@
 # Hello_World_Using_JSP
 
-**prerequisite
+**prerequisite**
+*You need to download and install the Apache tomcat web server*
 
 1. To run your first JSP project you need to first install EclipseEE IDE.
 2. After installation, create a *Dynamic web project*

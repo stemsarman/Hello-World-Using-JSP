@@ -9,7 +9,7 @@
 5. Right click on the webapp folder and create a new JSP file, named `index.jsp`
 6. Copy and Paste the below code in the `index.jsp` file.
 
-```<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+``` <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
@@ -20,7 +20,8 @@
 <body>
 <h1>Hello JSP World!</h1>
 </body>
-</html>```
+</html>
+```
 
 7. Right click the project on the left hand side in the project explorer window and go to **run as** option.
 8. Select the **run of server** option and click **finish**
